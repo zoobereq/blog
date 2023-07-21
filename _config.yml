@@ -1,11 +1,12 @@
 # Site settings
-title:          zub.buzz
-description:    "Hello 👋🏻 I'm Simon Zuberek, an educational technologist, linguist, and langauge instructor. In this space, I share my ideas about language, technology, curricular design, and society."
+title:          simon.zub
+description:    “Reason" in language - oh, what an old deceptive female she is! I am afraid we are not rid of God because we still have faith in grammar.” \b
+― Friedrich Nietzsche, Twilight of the Idols / The Anti-Christ
 baseurl:        
 url:            "https://blog.zuberek.net"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: G-4RK1MDY1CV
 
 # Author
 author:
