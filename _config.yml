@@ -1,6 +1,6 @@
 # Site settings
-title:          simon.zub
-description:    
+title:          zub.buz
+description:    "Essence is expressed in grammar.  -Wittgenstein"
 baseurl:        
 url:            "https://blog.zuberek.net"
 
@@ -8,7 +8,7 @@ url:            "https://blog.zuberek.net"
 google_analytics: G-4RK1MDY1CV
 
 # Author
-author:
+author:         zoobereq
   name:         Simon Zuberek
   url:          https://www.zuberek.net
   email:        simon@zuberek.net
