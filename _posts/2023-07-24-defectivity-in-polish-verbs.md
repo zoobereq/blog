@@ -8,11 +8,11 @@ author: "Simon"
 tags: Polish Nouns Defectivity Defectiveness Morphology
 ---
 
-In various instances, a language's grammar may not offer a means to express specific forms of a word. Words that do not appear in all possible inflected variations are occasionally referred to as having paradigm gaps or being defective in their inflection.[^1]  This is one way to look at *defectivity* (sometimes also refered to as *defectiveness*). Another way to think about this phenomenon is in terms of a formal paradigm where it is impossible to differentiate between individual inflectioal categories based on the morphology alone (e.g. 'fish' *singular* vs. 'fish' *plural*). If this brings to mind morphological [syncretism](https://en.wikipedia.org/wiki/Syncretism_(linguistics)), it it because the two terms appear to be related.[^2] 
+In various instances, a language's grammar may not offer a means to express specific forms of a word. Words that do not appear in all possible inflected variations are occasionally referred to as having paradigm gaps or being defective in their inflection. [^1]  This is one way to look at *defectivity* (sometimes also refered to as *defectiveness*). Another way to think about this phenomenon is in terms of a formal paradigm where it is impossible to differentiate between individual inflectioal categories based on the morphology alone (e.g. 'fish' *singular* vs. 'fish' *plural*). If this brings to mind morphological [syncretism](https://en.wikipedia.org/wiki/Syncretism_(linguistics)), it it because the two terms appear to be related. [^2] 
 
 This post focuses on defectivity as it pertains to the Polish verbal system.  Based on the above definitions, the following taxonomy of defective verbs may be suggested:
 
-- Uninflected defective verbs[^3]
+- Uninflected defective verbs [^3]
     - impersonal: 'trzeba', 'można', 'wolno', 'warto', 'niepodobna', 'nie sposób', 'widać', 'słychać', 'znać', 'czuć' etc.
     - momentous: 'ciach', 'łap', 'bęc', 'brzdęk', etc.
     - impressionistic: 'precz', 'fora', 'hajda', 'wara', 'huzia', etc.
