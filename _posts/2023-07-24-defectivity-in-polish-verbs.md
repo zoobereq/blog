@@ -22,7 +22,7 @@ This post focuses on defectivity as it pertains to the Polish verbal system.  Ba
         - Verbs that exist only in the 3rd person singular or plural: 'dziać się', 'zależeć', etc.
         - Verbs presumed to be 3rd person.  Although their inflected forms resemble 3rd person singular forms of personal verbs, they can't be paired with the corresponding pronoun. Examples include: 'zmierzchać się', 'mdlić', 'nudzić się', 'należy', 'braknąć', 'brakować', 'powodzić się', 'wydawać się', 'zdawać się', etc.
         - Impersonal verbs (without personal forms): 'brak', 'niepodobna', 'nie sposób', 'szkoda', 'trzeba', 'wolno', 'warto', 'można', 'widać'
-- Verbs that exist only in the imperative: 'bywać' --> 'bywaj!'
+- Verbs that exist only in the imperative: 'bywać' &rarr; 'bywaj!'
 - Verbs that exist only in the present tense: 'mieć'
 - Verbs without future tense forms: 'wszcząć'
 - Verbs existing only in plural: 'wspomagać się'
