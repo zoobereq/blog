@@ -14,7 +14,7 @@ This post extends the [discussion](https://blog.zuberek.net/2023-07-24/defectivi
     - Nouns that lack morphological case distinction in the singular but not in the plural forms: 'muzeum', 'faksymile', etc.
     - Nouns that lack morphological case distinction both in the singular and the plural: 'escudo', 'peso'
     - Nouns that don't decline by case or inflect by the grammatical number: 'atelier'
-    - Nouns that exist and decline only in plural: 'sanie' (sleigh), 'chrzciny' (christiening), nożyczki (scissors), etc.
+    - Nouns that exist and decline only in plural: 'sanie' (sleigh), 'chrzciny' (christiening), 'nożyczki' (scissors), etc.
     - Nouns that exist only in the singular:
         - Nouns that decline by cases: 'sanna' (a road covered in snow)
         - Nouns that don't decline by cases: 'forum', 'profesor' *fem.*, 'pekao' (bank PKO)
