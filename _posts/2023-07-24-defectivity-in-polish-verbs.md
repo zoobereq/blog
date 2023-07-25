@@ -17,32 +17,32 @@ If this brings to mind morphological [syncretism](https://en.wikipedia.org/wiki/
 This post focuses on defectivity as it pertains to the Polish verbal system.  In doing so, it attempts to employ the above two definitions to scetch out a taxonomy of defective Polish verbs.  Rather than being exhaustive, this simple inventory is meant as a point of departure for further exploration and analysis.  Any further suggestions, remarks, or corrections are absolutely welcome.
 
 - Uninflected defective verbs<sup>4</sup>
-    - indicating instantaneous events: 'ciach', 'łap', 'bęc', 'brzdęk', etc.
-    - impressionistic (conveying strong emotional attitude towards the object): 'precz', 'fora', 'hajda', 'wara', 'huzia', etc.
+    - indicating instantaneous events: 'ciach' (snip, chop), 'łap' (grab), 'bęc' (beep), 'brzdęk' (boop), etc.
+    - impressionistic (conveying strong emotional attitude towards the object): 'precz' (down with), 'fora', 'hajda' (off you go), 'wara', 'huzia', etc.
 
 - Inflectected defective verbs
-    - Verbs that inflect only by gender and grammatical number: 'rad', 'kontent', 'wart', 'ciekaw', 'godzien', 'gotów', 'zdrów', etc.
+    - Verbs that inflect only by gender and grammatical number: 'rad' (glad), 'kontent' (content), 'wart' (worth), 'ciekaw' (curious), 'godzien' (worthy), 'gotów' (ready), 'zdrów' (healthy), etc.
     - Verbs that inflect only by tense and mood:
-        - Verbs that exist only in the 3rd person singular or plural: 'dziać się', 'zależeć', etc.
-        - Seemingly 3rd person verbs (although their inflected forms resemble 3rd person singular forms of personal verbs, they don't pair with the corresponding pronoun): 'zmierzchać się', 'mdlić', 'nudzić się', 'należy', 'braknąć', 'brakować', 'powodzić się', 'wydawać się', 'zdawać się', etc.
-        - Impersonal verbs (without personal forms): 'brak', 'niepodobna', 'nie sposób', 'szkoda', 'trzeba', 'wolno', 'warto', 'można', 'widać', etc.
+        - Verbs that exist only in the 3rd person singular or plural: 'dziać się' (happen), 'zależeć' (depend, hinge), etc.
+        - Seemingly 3rd person verbs (although their inflected forms resemble 3rd person singular forms of personal verbs, they don't pair with the corresponding pronoun): 'zmierzchać się' (get dark, grow dark), 'mdlić' (nauseate), 'nudzić się (be bored), 'należy się' (to be entitled to), 'braknąć' (miss), 'brakować' (be lacking, be missing), 'powodzić się' (prosper), 'wydawać się' (seem to be), 'zdawać się' (seem), etc.
+        - Impersonal verbs (without personal forms): 'brak' (lack), 'niepodobna' (unlike), 'nie sposób' (no way), 'szkoda' (pity), 'trzeba' (it is necessary to), 'wolno' (it is permitted to), 'warto' (it is worthwhile to), 'można' (one can), 'widać' (it is evident), etc.
 
 In addition to the above paradigm juxtaposing uninflected and inflecteced verbs, Polish defective verbs can be also grouped in the following categories:
 
-- Verbs that exist only in the imperative: 'bywać' &rarr; 'bywaj!'
-- Verbs that exist only in the present tense: 'mieć'
-- Verbs without future tense forms: 'wszcząć'
-- Verbs existing only in plural: 'wspomagać się'
+- Verbs that exist only in the imperative: 'bywać' &rarr; 'bywaj!' (greetings!)
+- Verbs that exist only in the present tense: 'mieć' (have)
+- Verbs without future tense forms: 'wszcząć' (initiate, commence)
+- Verbs existing only in plural: 'wspomagać się' (support one another)
 
 Lastly, it may also be helpful to organize these verbs in terms of the type of their defectiveness.  Here one can distinguish between verbs that are formally defective and those that are defective both formally and functionally.
 
 - Formally defective verbs:
-    - Verbs existing only in in the 3rd person: 'boleć', 'szczekać', etc.
-    - Seemingly 3rd person verbs: 'mdlić', 'nudzić się', 'należy', 'braknąć', 'brakować', 'powodzić się', 'wydawać się', 'zdawać się', etc.
-    - Impersonal verbs:  'brak', 'niepodobna', 'nie sposób', 'szkoda', 'trzeba', 'wolno', 'warto'
+    - Verbs existing only in in the 3rd person: 'boleć' (pain, hurt), 'szczekać' (bark), etc.
+    - Seemingly 3rd person verbs: 'mdlić' (nauseate), 'nudzić się' (be bored), 'należy' (belong), 'braknąć' (miss), 'brakować' (be lacking, be missing), 'powodzić się' (prosper), 'wydawać się' (seem to be), 'zdawać się' (seem), etc.
+    - Impersonal verbs:  'brak' (lack), 'niepodobna' (unike), 'nie sposób' (no way), 'szkoda' (pity), 'trzeba' (it is necessary to), 'wolno' (it is permitted to), 'warto' (it is worthwhile to), etc.
 - Formally and functionally defective verbs:
-    - 3rd person verbs: 'dziać się', 'zależeć'
-    - Seemingly 3rd person verbs: 'zmierzchać się'
+    - 3rd person verbs: 'dziać się', 'zależeć' (depend, hinge)
+    - Seemingly 3rd person verbs: 'zmierzchać się' (get dark, grow dark)
 
 &nbsp;
 &nbsp;
