@@ -7,8 +7,8 @@ comments: true
 author: "Simon"
 tags: Polish Nouns Defectivity Defectiveness Morphology
 ---
-There are times when a language's grammar may not offer a means to express specific forms of a word. Words that do not appear in all possible inflected variations are referred to as having paradigm gaps, or being *defective* in their inflection.<sup>1</sup>
 <!--more-->
+There are times when a language's grammar may not offer a means to express specific forms of a word. Words that do not appear in all possible inflected variations are referred to as having paradigm gaps, or being *defective* in their inflection.<sup>1</sup>
 
 The above definition represents one way to look at *defectivity* (sometimes also refered to as *defectiveness*). An alterntive approach to this phenomenon considers a formal paradigm where it is impossible to differentiate between individual inflectioal categories based on the morphology alone.<sup>2</sup>  Think of the English lexeme 'fish' which features the same form in singular and plural.
 
