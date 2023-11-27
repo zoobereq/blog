@@ -8,7 +8,7 @@ author: "Simon"
 tags: Polish Verbs Defectivity Defectiveness Morphology
 ---
 <!--more-->
-This post extends the [discussion](https://blog.zuberek.net/2023-07-24/defectivity-in-polish-verbs) on morphological defectivity in Polish by including verbs.  To that end, it follows the taxonomy proposed by Dyszak (2001)<sup>1</sup> and implemented in the the previous post.  Taking into account the understaning of defectivity as a morphological phenomenon whereby the grammar is unable to generate certain inflectional forms, the landscape of Polish nominal defectivity can be expressed in terms of two main categories: nouns that are formally defective, and nouns that are defective both formally and functionally.  A more granular representation of this classification is presented below:
+This post extends the [discussion](https://blog.zuberek.net/2023-07-24/defectivity-in-polish-verbs) on morphological defectivity in Polish by including nouns.  To that end, it follows the taxonomy proposed by Dyszak (2001)<sup>1</sup> and implemented in the the previous post.  Taking into account the understaning of defectivity as a morphological phenomenon whereby the grammar is unable to generate certain inflectional forms, the landscape of Polish nominal defectivity can be expressed in terms of two main categories: nouns that are formally defective, and nouns that are defective both formally and functionally.  A more granular representation of this classification is presented below:
 
 - Formally defective nouns
     - Nouns that lack morphological case distinction in the singular but not in the plural forms: 'muzeum', 'faksymile', etc.
